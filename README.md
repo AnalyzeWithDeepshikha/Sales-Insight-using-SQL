@@ -1,4 +1,4 @@
-# Sales Analysis using SQL
+# Sales insights using SQL
 Retrieve data from SQL Server to solve real business problems and provide insights to stakeholders
 
 ## Executive Summary
